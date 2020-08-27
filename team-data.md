@@ -9,3 +9,4 @@
 | Hobie A Aljohani  | CIS       | Fall 2020 |
 | Garrett Duplantis | CIS       | Fall 2020 |
 | Andrew  Folkerts  | IT        | Fall 2020 |
+| Michael Zimmerman  |CIS	      | Fall 2020 |
