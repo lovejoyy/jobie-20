@@ -11,12 +11,9 @@
 | Andrew  Folkerts  | IT        | Fall 2020 |
 | Matt Peck         | CIS       | Spring 2021|
 | Mason Cantrell    | CIS       | Fall 2020 |
-| JJ McCormick	    | CIS	      | Fall 2020	|
-| Michael Zimmerman  |CIS	      | Fall 2020 |
+| JJ McCormick	    | CIS	| Fall 2020	|
+| Michael Zimmerman | CIS	      | Fall 2020 |
+| Matt Peck         | CIS       | Spring 20201 |
+| Jevonte Alexander | IT	| Fall 2020 |
+|  Ethan   Montgomery|  CIS      |      Fall 2020|
 | Reagan Howard     |CIS        |Spring 2020|
-	
-
-
-
-
-
