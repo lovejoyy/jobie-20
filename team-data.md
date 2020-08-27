@@ -6,8 +6,9 @@
 | Delilah Howell    | CIS       | Fall 2020	|
 | Alyssa Birt       | IT        | Fall 2020	|
 | Dakota Terry      | CIS       | Spring 2021   |
-| Hobie A Aljohani  | CIS       | Fall 2020	|
-| Garrett Duplantis | CIS       | Fall 2020	|
-| Andrew  Folkerts  | IT        | Fall 2020	|
+| Hobie A Aljohani  | CIS       | Fall 2020 |
+| Garrett Duplantis | CIS       | Fall 2020 |
+| Andrew  Folkerts  | IT        | Fall 2020 |
+| Mason Cantrell    | CIS       | Fall 2020 |
 | JJ McCormick	    | CIS	| Fall 2020	|
 | Michael Zimmerman  |CIS	      | Fall 2020 |
