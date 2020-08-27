@@ -12,3 +12,4 @@
 | Mason Cantrell    | CIS       | Fall 2020 |
 | JJ McCormick	    | CIS	| Fall 2020	|
 | Michael Zimmerman  |CIS	      | Fall 2020 |
+| Jevonte Alexander | IT	| Fall 2020 |
