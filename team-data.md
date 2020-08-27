@@ -16,3 +16,4 @@
 | Matt Peck         | CIS       | Spring 20201 |
 | Jevonte Alexander | IT	| Fall 2020 |
 |  Ethan   Montgomery|  CIS      |      Fall 2020|
+| Reagan Howard     |CIS        |Spring 2020|
