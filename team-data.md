@@ -10,3 +10,4 @@
 | Garrett Duplantis | CIS       | Fall 2020	|
 | Andrew  Folkerts  | IT        | Fall 2020	|
 | JJ McCormick	    | CIS	| Fall 2020	|
+| Michael Zimmerman  |CIS	      | Fall 2020 |
