@@ -9,6 +9,7 @@
 | Hobie A Aljohani  | CIS       | Fall 2020 |
 | Garrett Duplantis | CIS       | Fall 2020 |
 | Andrew  Folkerts  | IT        | Fall 2020 |
+| Matt Peck         | CIS       | Spring 2021|
 | Mason Cantrell    | CIS       | Fall 2020 |
-| JJ McCormick	    | CIS	| Fall 2020	|
+| JJ McCormick	    | CIS	      | Fall 2020	|
 | Michael Zimmerman  |CIS	      | Fall 2020 |
