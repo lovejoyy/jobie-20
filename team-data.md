@@ -13,3 +13,6 @@
 | Mason Cantrell    | CIS       | Fall 2020 |
 | JJ McCormick	    | CIS	      | Fall 2020	|
 | Michael Zimmerman  |CIS	      | Fall 2020 |
+| Reagan Howard     |CIS        |Spring 2020|
+	
+
