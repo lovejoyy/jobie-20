@@ -18,3 +18,4 @@
 |  Ethan   Montgomery|  CIS      |      Fall 2020|
 | Reagan Howard     |CIS        |Spring 2020|
 |Darian Burden 	    |CIS	|Fall 2020|
+| Maurice Elmore    | CIS       | Fall 2020 |
