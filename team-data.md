@@ -15,3 +15,4 @@
 | Michael Zimmerman | CIS	      | Fall 2020 |
 | Matt Peck         | CIS       | Spring 20201 |
 | Jevonte Alexander | IT	| Fall 2020 |
+|  Ethan   Montgomery|  CIS      |      Fall 2020|
