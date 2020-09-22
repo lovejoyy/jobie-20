@@ -19,4 +19,4 @@
 | Darian Burden 	    |CIS	|Fall 2020|
 | Maurice Elmore    | CIS       | Fall 2020 |
 | Jaylen Johnson    | CIS       | Fall 2020 |
-| Joy Parker|       | CIS       | Fall 2020 |
+| Joy Parker      | CIS       | Fall 2020 |
